@@ -1,4 +1,4 @@
-# Full Stack Trivia API Backend
+# Full Stack Trivia API
 
 ## Getting Started
 
@@ -353,6 +353,3 @@ createdb trivia_test
 psql trivia_test < trivia.psql
 python test_flaskr.py
 ```
-## Author info
-Ravi authored the API (__init__.py), test suite (test_flaskr.py), and this README.
-All other project files, including the models and frontend, were created by Udacity as a project template for the Full Stack Web Developer Nanodegree.
